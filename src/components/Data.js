@@ -19,6 +19,26 @@ const Data = [
     img: "https://i.ytimg.com/vi/lE1TzmjxgWI/hqdefault.jpg",
     link: "https://stream.crichd.vip/update/star1hi.php",
   },
+  {
+    name: "SS Circket",
+    img: "https://crichd.tv/assets/uploads/channels/49.png",
+    link: "https://stream.crichd.vip/update/sscricket.php",
+  },
+  {
+    name: "Willow Circket",
+    img: "https://crichd.tv/assets/uploads/channels/55.png",
+    link: "https://stream.crichd.vip/update/willowextra.php",
+  },
+  {
+    name: "Fox Circket",
+    img: "https://crichd.tv/assets/uploads/channels/81.png",
+    link: "https://stream.crichd.vip/update/fox501.php",
+  },
+  {
+    name: "Sonay 10 1",
+    img: "https://crichd.tv/assets/uploads/channels/52.png",
+    link: "https://stream.crichd.vip/update/ten1.php",
+  },
 ];
 
 export default Data;
